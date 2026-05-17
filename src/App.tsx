@@ -251,7 +251,7 @@ export default function App() {
               {screen === 'quiz' ? 'Evaluation Module v2.6' : 'Learning System v1.0'}
             </p>
             <h1 className="text-3xl font-light tracking-tight text-white flex items-center gap-3">
-              장기요양기관 평가 <span className="text-blue-500 font-medium">OX 퀴즈</span>
+              장기요양기관(방문요양) 평가 <span className="text-blue-500 font-medium">OX 퀴즈</span>
             </h1>
           </div>
           <div className="text-right hidden sm:block">
@@ -302,7 +302,7 @@ export default function App() {
                   />
                 </div>
                 
-                <h2 className="text-4xl font-medium text-white mb-6 tracking-tight">학습 코스 로드 완료</h2>
+                <h2 className="text-4xl font-medium text-white mb-6 tracking-tight">방문요양 평가준비 OX퀴즈</h2>
                 <p className="text-slate-400 text-lg mb-10 leading-relaxed max-w-md mx-auto">
                   2026년 장기요양기관(방문요양) 평가 매뉴얼의<br />
                   주요 지표와 변경 사항을 검증합니다.
